@@ -1,1 +1,5 @@
-
+Milk 2.50
+Bread 1.20
+Total: 3.70
+Date: 2026-02-25 18:45
+Payment: Card
