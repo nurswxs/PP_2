@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Serik",
+        "email": "serik@company.com",
+        "birthday": "1987-11-30",
+        "group": "Company",
+        "phones": [
+            {
+                "number": "87223334455",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Ali",
+        "email": "ali@gmail.com",
+        "birthday": "1990-05-12",
+        "group": "Friend",
+        "phones": [
+            {
+                "number": "87071112233",
+                "type": "mobile"
+            },
+            {
+                "number": "87071112233",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Zhanar",
+        "email": "zhanar@gmail.com",
+        "birthday": "1995-01-05",
+        "group": "Other",
+        "phones": [
+            {
+                "number": "87012223344",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Dana",
+        "email": "dana@work.com",
+        "birthday": "1985-09-01",
+        "group": "Work",
+        "phones": [
+            {
+                "number": "87271112233",
+                "type": "work"
+            },
+            {
+                "number": "87123456789",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Aigerim",
+        "email": "aigerim@school.kz",
+        "birthday": "1998-07-15",
+        "group": "School",
+        "phones": [
+            {
+                "number": "87089997766",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Marat",
+        "email": "marat@yahoo.com",
+        "birthday": "1992-03-22",
+        "group": "Family",
+        "phones": [
+            {
+                "number": "87005554433",
+                "type": "home"
+            }
+        ]
+    }
+]
